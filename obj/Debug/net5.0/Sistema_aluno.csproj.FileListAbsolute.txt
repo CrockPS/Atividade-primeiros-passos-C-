@@ -1,0 +1,16 @@
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\Sistema_aluno.exe
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\Sistema_aluno.deps.json
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\Sistema_aluno.runtimeconfig.json
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\Sistema_aluno.runtimeconfig.dev.json
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\Sistema_aluno.dll
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\ref\Sistema_aluno.dll
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\bin\Debug\net5.0\Sistema_aluno.pdb
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.csproj.AssemblyReference.cache
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.AssemblyInfoInputs.cache
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.AssemblyInfo.cs
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.csproj.CoreCompileInputs.cache
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.dll
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\ref\Sistema_aluno.dll
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.pdb
+C:\Users\Cassio\Desktop\C#\Sistema_aluno\obj\Debug\net5.0\Sistema_aluno.genruntimeconfig.cache
